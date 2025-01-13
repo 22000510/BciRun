@@ -5,23 +5,90 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638720806001570853
-    m_Hash: 4109186842
+      ticks: 638720901479171236
+    m_Hash: 47772099
   m_LockFileStatus:
     m_FilePath: "C:/Users/admin/OneDrive/\uBB38\uC11C/GitHub/BciRun/Packages/packages-lock.json"
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638720806001678606
-    m_Hash: 1606842724
+      ticks: 638721769882456121
+    m_Hash: 48961895
 m_EmbeddedPackageManifests:
-  m_ManifestsStatus: {}
+  m_ManifestsStatus:
+    "C:/Users/admin/OneDrive/\uBB38\uC11C/GitHub/BciRun/Packages/LSL4Unity/package.json":
+      m_FilePath: "C:/Users/admin/OneDrive/\uBB38\uC11C/GitHub/BciRun/Packages/LSL4Unity/package.json"
+      m_PathExists: 1
+      m_ContentTrackingEnabled: 1
+      m_ModificationDate:
+        serializedVersion: 2
+        ticks: 638719953914812320
+      m_Hash: 2035812232
 m_LocalPackages:
   m_LocalFileStatus: []
 m_ProjectPath: "C:/Users/admin/OneDrive/\uBB38\uC11C/GitHub/BciRun/Packages"
 m_EditorVersion: 2022.3.53f1 (df4e529d20d3)
 m_ResolvedPackages:
+- packageId: com.unity.2d.sprite@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: "C:\\Users\\admin\\OneDrive\\\uBB38\uC11C\\GitHub\\BciRun\\Library\\PackageCache\\com.unity.2d.sprite@1.0.0"
+  assetPath: Packages/com.unity.2d.sprite
+  name: com.unity.2d.sprite
+  displayName: 2D Sprite
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: 
+  description: Use Unity Sprite Editor Window to create and edit Sprite asset properties
+    like pivot, borders and Physics shape
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - 2d
+  - sprite
+  - sprite editor window
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+  fingerprint: 
 - packageId: com.unity.collab-proxy@2.6.0
   testable: 0
   isDirectDependency: 1
@@ -2669,6 +2736,59 @@ m_ResolvedPackages:
     path: 
   unityLifecycle:
     version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+  fingerprint: 
+- packageId: "com.labstreaminglayer.lsl4unity@file:C:\\Users\\admin\\OneDrive\\\uBB38\uC11C\\GitHub\\BciRun\\Packages\\LSL4Unity"
+  testable: 1
+  isDirectDependency: 1
+  version: 1.16.0
+  source: 3
+  resolvedPath: "C:\\Users\\admin\\OneDrive\\\uBB38\uC11C\\GitHub\\BciRun\\Packages\\LSL4Unity"
+  assetPath: Packages/com.labstreaminglayer.lsl4unity
+  name: com.labstreaminglayer.lsl4unity
+  displayName: labstreaminglayer for Unity
+  author:
+    name: Chadwick Boulay
+    email: chadwick.boulay@gmail.com
+    url: 
+  category: 
+  type: 
+  description: labstreaminglayer for Unity
+  status: 0
+  errors: []
+  versions:
+    all: []
+    compatible: []
+    recommended: 
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: https://github.com/labstreaminglayer/LSL4Unity
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
